@@ -1,3 +1,4 @@
 <?php
-    echp "Hello world!";
+    echo "Hello world!";
+    echo "this line is add by john-lu"
 ?>
